@@ -62,4 +62,4 @@ Mi objetivo es seguir construyendo proyectos que conecten la ingeniería bioméd
 
 * GitHub: @wadidev
 * LinkedIn: https://www.linkedin.com/in/wadia-el-khalloufi-chanaa-2a7196374/?skipRedirect=true
-* Portfolio: 
+* Portfolio: https://wadidev.github.io/portfolio-wadia/
